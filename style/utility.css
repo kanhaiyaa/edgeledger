@@ -1,0 +1,50 @@
+.text-primary {
+    color: #28a745;
+}
+
+.btn-primary {
+    background: #28a745;
+    color: #fff;
+    padding: 10px 0;
+    margin: 5px;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+
+.content .btn-primary a:hover {
+    color: #f3d7d7;
+}
+
+.footer {
+    background: #333;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    max-width: 100%;
+}
+
+.footer .social-icons {
+    margin: 2px;
+}
+
+.social-icons > a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.social-icons i {
+    padding: 0 3px;
+    margin: 0 3px;
+}
+
+.footer p {
+    margin: 2px;
+}
+
+
+
+
+
+
+

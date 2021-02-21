@@ -57,6 +57,11 @@ ul li a:hover {
     border-bottom: #28a745 2px solid;
 }
 
+.navbar .logo > a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .content {
     display: flex;
     flex-direction: column;
@@ -184,7 +189,7 @@ ul li a:hover {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
     padding-bottom: 10px;
 }
 
